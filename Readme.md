@@ -1,4 +1,4 @@
-# Lab 4 - Infant Incubator Model and Simulator
+# Infant Incubator Model and Simulator
 
 The Infant Incubator is designed to provide a safe, controlled space for infants to live while their vital organs develop. Unlike a simple bassinet, an incubator provides an environment that can be adjusted to provide the ideal temperature as well as the perfect amount of oxygen, humidity, and light. 
 
